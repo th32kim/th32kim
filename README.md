@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Tae Hong (Richard), a fourth-year Computer Engineering Student at the University of Waterloo. Feel free to reach out for anything!😄
+# I'm Tae Hong (Richard), a fourth-year Computer Engineering Student at the University of Waterloo. Feel free to reach out for anything!😄
 
 - 📧 th32kim@uwaterloo.ca
   
