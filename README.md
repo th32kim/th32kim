@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## I'm Tae Hong (Richard), a fourth-year Computer Engineering Student at the University of Waterloo. Feel free to reach out for anything!😄
+
+- 📧 th32kim@uwaterloo.ca
+- <img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/a8b8c8af-3212-47d8-ae31-68ab10538b2f" /> [LinkedIn](https://www.linkedin.com/in/richard-kim-10ba1319b/)
+
 <!--
 **th32kim/th32kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
